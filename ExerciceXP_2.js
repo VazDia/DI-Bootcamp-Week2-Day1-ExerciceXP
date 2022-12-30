@@ -8,6 +8,15 @@ console.log(myWatchedSeriesLength);
 Créez une variable nommée myWatchedSeriesSentence, qui est égale à une phrase décrivant la série que vous avez regardée
 Par exemple :black mirror, money heist, and the big bang theory 
 */
+
+/*********************************************
+Correcteur: Yannick GOUGUIA
+
+Resultat correct mais pas optimal, imaginez que vous ayez 100 elements dans le tableau?????
+
+a corriger
+
+*********************************************/
 let myWatchedSeriesSentence= myWatchedSeries[0]+", "+myWatchedSeries[1]+", "+myWatchedSeries[2];
 console.log(myWatchedSeriesSentence);
 
