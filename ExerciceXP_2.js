@@ -17,7 +17,7 @@ Resultat correct mais pas optimal, imaginez que vous ayez 100 elements dans le t
 a corriger
 
 *********************************************/
-let myWatchedSeriesSentence= myWatchedSeries[0]+", "+myWatchedSeries[1]+", "+myWatchedSeries[2];
+let myWatchedSeriesSentence= myWatchedSeries.toString();
 console.log(myWatchedSeriesSentence);
 
 /* 
