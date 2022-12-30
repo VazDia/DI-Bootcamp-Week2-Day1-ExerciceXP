@@ -17,7 +17,7 @@ Resultat correct mais pas optimal, imaginez que vous ayez 100 elements dans le t
 a corriger
 
 *********************************************/
-let myWatchedSeriesSentence= myWatchedSeries.toString();
+let myWatchedSeriesSentence= myWatchedSeries.toString(); // Correction à vérifier
 console.log(myWatchedSeriesSentence);
 
 /* 
